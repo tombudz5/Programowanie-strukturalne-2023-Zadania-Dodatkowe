@@ -1,1 +1,1 @@
-# Repository for additional tasks of structural programming by Jastrzebski.
+# Repository for structural programming additional tasks by Jastrzebski.
